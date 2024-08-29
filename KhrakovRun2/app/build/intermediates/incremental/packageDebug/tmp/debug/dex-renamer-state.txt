@@ -1,0 +1,4 @@
+#Mon Aug 08 08:13:28 SAST 2022
+base.0=/Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

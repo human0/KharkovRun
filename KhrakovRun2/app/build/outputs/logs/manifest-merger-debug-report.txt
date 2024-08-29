@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/facc116ba908d13db18868a061f56f89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9f979ad468e74b5ff25714a5c5ede0d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d24a83ebf4fba1d3185a23cc3c343898/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5bd50e39829f745468b76bf2b58f2daf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d3c79a97447ed13862f1475cfb772643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/f30de055a22cabda2118f0b4d1a0d007/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/90702c6543b6990bce419a8f708e387f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/39841aa2fbfd94862620e3316ee2065c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a0cd718adacc9e5cabafe6e773c8910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/8f86c548e9706edbc491f4354c14fd67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/c3f41484c8e3952c02f13045f257966a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/2093ba823c8dbef1244c6f49f2ba2ea0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ea1e32dbc63b9f52d7dc7ff789dc26a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7bb5201bc446cfa36ce2915fcc9ab59f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/517718c1008db9655a98ed47200528f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/130e35fcc24b4a4deb9fcdbe36e5c284/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7ed2a67595724123cbd362a0cf769bc6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7c05f6f84ef41b6a6cdbcc6d42170491/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6701ad317d770db3f6f307c04c2cef23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6debf7741bd221eeb080335100cdc23b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a1a9335bc592c23b44edb10eed8c42b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/1b9744897dca0ca51346d367b572d011/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ed2d752a62403c51291afb721df2cdec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/cee68c8e200ea95eac4983477e3e7875/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/4ec3b68e81314f3c4d6c093be0c088a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6adc622d6b84b0ec0eb72dc7f2290153/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9ef4d8e90ae98d14f3916e6be63e0308/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:7:5-30:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7ed2a67595724123cbd362a0cf769bc6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7ed2a67595724123cbd362a0cf769bc6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.sparkdevteam.khrakovrun.MainActivity
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:13:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.sparkdevteam.khrakovrun.Game
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:21:10-23:15
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:22:13-33
+activity#com.sparkdevteam.khrakovrun.instructions
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:24:9-26:15
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:25:13-41
+activity#com.sparkdevteam.khrakovrun.about
+ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:27:8-29:15
+	android:name
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml:28:13-34
+uses-sdk
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/facc116ba908d13db18868a061f56f89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/facc116ba908d13db18868a061f56f89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9f979ad468e74b5ff25714a5c5ede0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9f979ad468e74b5ff25714a5c5ede0d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d24a83ebf4fba1d3185a23cc3c343898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d24a83ebf4fba1d3185a23cc3c343898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5bd50e39829f745468b76bf2b58f2daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5bd50e39829f745468b76bf2b58f2daf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d3c79a97447ed13862f1475cfb772643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/d3c79a97447ed13862f1475cfb772643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/f30de055a22cabda2118f0b4d1a0d007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/f30de055a22cabda2118f0b4d1a0d007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/90702c6543b6990bce419a8f708e387f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/90702c6543b6990bce419a8f708e387f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/39841aa2fbfd94862620e3316ee2065c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/39841aa2fbfd94862620e3316ee2065c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a0cd718adacc9e5cabafe6e773c8910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a0cd718adacc9e5cabafe6e773c8910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/8f86c548e9706edbc491f4354c14fd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/8f86c548e9706edbc491f4354c14fd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/c3f41484c8e3952c02f13045f257966a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/c3f41484c8e3952c02f13045f257966a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/2093ba823c8dbef1244c6f49f2ba2ea0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/2093ba823c8dbef1244c6f49f2ba2ea0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ea1e32dbc63b9f52d7dc7ff789dc26a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ea1e32dbc63b9f52d7dc7ff789dc26a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7bb5201bc446cfa36ce2915fcc9ab59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7bb5201bc446cfa36ce2915fcc9ab59f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/517718c1008db9655a98ed47200528f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/517718c1008db9655a98ed47200528f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/130e35fcc24b4a4deb9fcdbe36e5c284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/130e35fcc24b4a4deb9fcdbe36e5c284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/5c51dc748cb3306785a9f3532ff88b60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7ed2a67595724123cbd362a0cf769bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7ed2a67595724123cbd362a0cf769bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7c05f6f84ef41b6a6cdbcc6d42170491/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/7c05f6f84ef41b6a6cdbcc6d42170491/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6701ad317d770db3f6f307c04c2cef23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6701ad317d770db3f6f307c04c2cef23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6debf7741bd221eeb080335100cdc23b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6debf7741bd221eeb080335100cdc23b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a1a9335bc592c23b44edb10eed8c42b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/0a1a9335bc592c23b44edb10eed8c42b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/1b9744897dca0ca51346d367b572d011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/1b9744897dca0ca51346d367b572d011/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ed2d752a62403c51291afb721df2cdec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/ed2d752a62403c51291afb721df2cdec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/cee68c8e200ea95eac4983477e3e7875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/cee68c8e200ea95eac4983477e3e7875/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/4ec3b68e81314f3c4d6c093be0c088a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/4ec3b68e81314f3c4d6c093be0c088a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6adc622d6b84b0ec0eb72dc7f2290153/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/6adc622d6b84b0ec0eb72dc7f2290153/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9ef4d8e90ae98d14f3916e6be63e0308/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/emmanuel.balogun/.gradle/caches/transforms-2/files-2.1/9ef4d8e90ae98d14f3916e6be63e0308/AndroidManifest.xml:20:5-44
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emmanuel.balogun/repo/FresherFlow/KhrakovRun2/app/src/main/AndroidManifest.xml

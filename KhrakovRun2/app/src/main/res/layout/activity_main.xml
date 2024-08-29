@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RootView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/screen1bk"
+    android:gravity="fill_vertical"
+    android:padding="20dp"
+   
+    tools:context="com.sparkdevteam.lifeinkharkov.MainActivity$PlaceholderFragment" >
+
+    <TextView
+        android:id="@+id/textView1"        
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:textColor="#ffff"
+        android:text="Welcome to Kharkov Run Game. " />
+
+    
+     <LinearLayout
+        android:layout_margin="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical" >
+   
+    
+ 	<Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="instructions"
+        android:textColor="#ffff"
+        android:text="INSTRUCTIONS"
+        android:background="#80000000"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:textColor="#ffff"
+        android:onClick="play"
+        android:background="#80000000"
+        android:layout_marginBottom="10dp"
+        android:text="PLAY NOW!" />
+   <Button
+        android:id="@+id/button3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:textColor="#ffff"
+        android:onClick="about"
+       android:background="#80000000"
+        android:text="SparkDT" /> 
+   
+
+    
+
+
+ </LinearLayout>
+ 
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff"
+        android:layout_alignParentBottom="true"
+        android:onClick="exit"
+        android:background="#80000000"
+        android:text="EXIT" />
+
+   
+
+</RelativeLayout>

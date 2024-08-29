@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/instructions"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/sceen2bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView0"
+        android:paddingLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to Play"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:text="This game is about general student life in Ukraine. Gain speed and reach the right edge of your screen to survive the academic year."
+        android:textAlignment="center"
+        />
+	<TextView
+        android:id="@+id/textView2"
+        android:drawableLeft="@drawable/i1"
+        android:drawablePadding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Eating SHAWAMA increases your speed and jumb, by giving you enough bio gas to simulate a jet engine. Tap the sreen to take off"
+        android:textAlignment="center"
+        />
+     <TextView
+        android:id="@+id/textView3"
+        android:drawableLeft="@drawable/i3"
+         android:drawablePadding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Eating MANKA increases your power, by giving you that super humongous african belly. Tab the screen to blast your enimies out of Europe"
+        android:textAlignment="center" />
+	
+     <TextView
+        android:id="@+id/textView4"
+        android:drawableLeft="@drawable/i2"
+         android:drawablePadding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Drinking VODKA makes you untouchable. You are so fly! Tab the screen over your enemies to get them drunk."
+        android:textAlignment="center" />
+     
+     <TextView
+        android:id="@+id/textView5"
+        android:drawableLeft="@drawable/i4"
+         android:drawablePadding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="BICYCLES are a fast and fun way to travel. Tab the screen to do a wheely and make some road kill!"
+        android:textAlignment="center" />
+     
+     <TextView
+        android:id="@+id/textView6"
+        android:drawableLeft="@drawable/i0"
+         android:drawablePadding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Entering the METRO makes you unreachable. Plus its a quick way to go."
+        android:textAlignment="center" />
+     
+     
+     <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Tab on the lower left corner of the screen to deactivate a powerup before time. "
+        android:textAlignment="center" />
+     
+        <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:textColor="#ffff"
+        android:onClick="back"
+        android:text="BACK" />
+   
+</LinearLayout>
